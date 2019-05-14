@@ -7,7 +7,7 @@ public class Calculator {
     char[] operation = new char[nums];
     int length=0;
 
-    public int cal() {
+    public int cal() { // 계산메소드
         do {
             for (int i = 0; i < length; i++) {
 
